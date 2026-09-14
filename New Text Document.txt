@@ -1,0 +1,7 @@
+#Fundamentals of Agentic AI:- 
+- Stateful Execution:- Stateful execution is an agent execution model where the agent maintains and updates contextual information, intermediate results, variables, and task progress across multiple execution steps, allowing it to continue complex tasks without losing context.
+
+- ReAct Execution :- ReAct is an agentic execution pattern based on Reasoning and Acting, where the agent iteratively decides what action or tool to perform, observes the result, and uses that observation to determine its next action.
+
+- Pydantic:- A strict schema/model that defines what data your agent's state can contain and what 
+types that data should have.
